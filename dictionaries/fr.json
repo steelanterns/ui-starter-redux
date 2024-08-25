@@ -1,0 +1,20 @@
+{
+    "navigation": {
+      "home": "Accueil",
+      "about": "À propos",
+      "signIn": "Se Connecter",
+      "singUp": "Creer un compte",
+      "logout": "Déconnexion"
+    },
+    "page": {
+      "home": {
+        "title": "Bienvenue à NextJs i18n",
+        "description": "Internationalisation dans NextJs 13 App router"
+      },
+      "about": {
+        "title": "À propos de nous",
+        "description": "Ceci est la page à propos"
+      }
+    }
+  }
+  

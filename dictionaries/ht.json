@@ -1,0 +1,20 @@
+{
+    "navigation": {
+      "home": "Kay",
+      "about": "Sou nou",
+      "signIn": "Konekte",
+      "singUp": "Kreye yon kont",
+      "logout": "Dekoneksyon"
+    },
+    "page": {
+      "home": {
+        "title": "Byenveni nan NextJs i18n",
+        "description": "Entènasyonalizasyon nan NextJs 13 App router"
+      },
+      "about": {
+        "title": "Sou nou",
+        "description": "Sa a se paj sou nou"
+      }
+    }
+  }
+  
